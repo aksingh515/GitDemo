@@ -8,7 +8,6 @@ public class TestngTest {
 		System.out.println("Hello TestNg");
 		System.out.println("Hello Java");
 		System.out.println("Hello Selenium");
-		System.out.println("Hello Maven");
 
 	}
 
