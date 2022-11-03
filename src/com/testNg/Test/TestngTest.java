@@ -8,9 +8,16 @@ public class TestngTest {
 		System.out.println("Hello TestNg");
 		System.out.println("Hello Java");
 		System.out.println("Hello Selenium");
-		System.out.println("Hello SQL");
-		System.out.println("Hello Python");
 
+	}
+
+	@Test
+	public void display() {
+		System.out.println("Web Automation");
+		System.out.println("RestAPI Automation");
+		System.out.println("Hello TestNg");
+		System.out.println("Hello Java");
+		System.out.println("Hello Selenium");
 	}
 
 	@Test
