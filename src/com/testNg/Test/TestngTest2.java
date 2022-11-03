@@ -18,4 +18,12 @@ public class TestngTest2
 		System.out.println("Expences");
 		System.out.println("Bills");
 	}
+	
+	public void insurance()
+	{
+		System.out.println("Self Insurance.");
+		System.out.println("Child Isurance");
+		System.out.println("Family Isurance");
+		System.out.println("Car Issurance");
+	}
 }
