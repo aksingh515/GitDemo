@@ -8,5 +8,14 @@ public class TestngTest2
 	public void ploan()
 	{
 		System.out.println("Personal Loan");
+		System.out.println("Car Loan");
+		System.out.println("House Loan");
+	}
+	
+	public void withdraw()
+	{
+		System.out.println("Salary");
+		System.out.println("Expences");
+		System.out.println("Bills");
 	}
 }
